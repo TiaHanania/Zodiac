@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ZODIAC</string>
+    <string name="select_zodiac">Select Zodiac:</string>
+    <string name="result">Result</string>
+    <string name="flag">zodiac Signs</string>
+    <string-array name="ZodiacSigns">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+</resources>
